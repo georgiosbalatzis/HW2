@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace MyNamespace
+namespace RollingWindowArrays
 {
     class Program
     {
