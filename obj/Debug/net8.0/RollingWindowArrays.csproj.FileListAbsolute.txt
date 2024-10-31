@@ -1,0 +1,14 @@
+/Users/giorgos/RiderProjects/RollingWindowArrays/obj/Debug/net8.0/RollingWindowArrays.GeneratedMSBuildEditorConfig.editorconfig
+/Users/giorgos/RiderProjects/RollingWindowArrays/obj/Debug/net8.0/RollingWindowArrays.AssemblyInfoInputs.cache
+/Users/giorgos/RiderProjects/RollingWindowArrays/obj/Debug/net8.0/RollingWindowArrays.AssemblyInfo.cs
+/Users/giorgos/RiderProjects/RollingWindowArrays/obj/Debug/net8.0/RollingWindowArrays.csproj.CoreCompileInputs.cache
+/Users/giorgos/RiderProjects/RollingWindowArrays/bin/Debug/net8.0/RollingWindowArrays
+/Users/giorgos/RiderProjects/RollingWindowArrays/bin/Debug/net8.0/RollingWindowArrays.deps.json
+/Users/giorgos/RiderProjects/RollingWindowArrays/bin/Debug/net8.0/RollingWindowArrays.runtimeconfig.json
+/Users/giorgos/RiderProjects/RollingWindowArrays/bin/Debug/net8.0/RollingWindowArrays.dll
+/Users/giorgos/RiderProjects/RollingWindowArrays/bin/Debug/net8.0/RollingWindowArrays.pdb
+/Users/giorgos/RiderProjects/RollingWindowArrays/obj/Debug/net8.0/RollingWindowArrays.dll
+/Users/giorgos/RiderProjects/RollingWindowArrays/obj/Debug/net8.0/refint/RollingWindowArrays.dll
+/Users/giorgos/RiderProjects/RollingWindowArrays/obj/Debug/net8.0/RollingWindowArrays.pdb
+/Users/giorgos/RiderProjects/RollingWindowArrays/obj/Debug/net8.0/RollingWindowArrays.genruntimeconfig.cache
+/Users/giorgos/RiderProjects/RollingWindowArrays/obj/Debug/net8.0/ref/RollingWindowArrays.dll
